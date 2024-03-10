@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on:
+  -   [Decision Wheel](https://github.com/aszlacheta/decision-wheel-angular) [Demo](https://aszlacheta.github.io/decision-wheel-angular/)
+  -   Application for brides and bridesmaids in React Native
+- 🌱 I’m currently learning:
+  - Angular 17+
+  - RxJS
+  - React Native
+  - Node.js
+ 
+Make sure you've seen my newest GH page  🌈 [here](https://aszlacheta.github.io/) 🌈 !
+
 <!--
 **aszlacheta/aszlacheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
