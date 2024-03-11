@@ -8,6 +8,8 @@
   - RxJS
   - React Native
   - Node.js
+- Old projects:
+  - 2048 Game [Repo](https://github.com/aszlacheta/2048-game) [Demo](https://aszlacheta.github.io/2048-game/)
  
 Make sure you've seen my newest GH page  🌈 [here](https://aszlacheta.github.io/) 🌈 !
 
