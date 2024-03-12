@@ -9,7 +9,8 @@
   - React Native
   - Node.js
 - Old projects:
-  - 2048 Game [Repo](https://github.com/aszlacheta/2048-game) [Demo](https://aszlacheta.github.io/2048-game/)
+  - 2048 Game [Repo](https://github.com/aszlacheta/2048-game) / [Demo](https://aszlacheta.github.io/2048-game/)
+  - Simple Agenda app [Repo](https://github.com/aszlacheta/agenda-app) / [Demo](https://agenda-app.github.io/) 
  
 Make sure you've seen my newest GH page  🌈 [here](https://aszlacheta.github.io/) 🌈 !
 
