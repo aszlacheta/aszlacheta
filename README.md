@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  -   [Decision Wheel](https://github.com/aszlacheta/decision-wheel-angular) [Demo](https://aszlacheta.github.io/decision-wheel-angular/)
+  -   [Decision Wheel](https://github.com/aszlacheta/decision-wheel-angular) [Demo](https://aszlacheta.github.io/decision-wheel-angular/en-US)
   -   Application for brides and bridesmaids in React Native
 - 🌱 I’m currently learning:
   - Angular 17+
